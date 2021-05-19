@@ -15,7 +15,7 @@ Education
 * MSc in Political Science and Political Economy, London School of Economics and Political Science, 2015
 * MA in Economics, Yale University, 2018 
 * MPhil in Political Science and Economics, Yale University, 2019
-* Ph.D in Political Science and Economics, Yale University, 2022 (expected)
+* PhD in Political Science and Economics, Yale University, 2022 (expected)
 
 
 Work experience
