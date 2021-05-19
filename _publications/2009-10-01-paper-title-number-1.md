@@ -1,15 +1,15 @@
 ---
-title: "Paper Title Number 1"
+title: "Who Do You Trust? The Consequences of Partisanship and Trust for Responsiveness to COVID-19 Orders"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+excerpt: 'We study partisanship and trust as determinants for differential compliance with COVID-19 stay-at-home orders.'
+date: 2021-04-16
+venue: 'Perspectives on Politics'
+paperurl: 'https://www.cambridge.org/core/journals/perspectives-on-politics/article/who-do-you-trust-the-consequences-of-partisanship-and-trust-for-public-responsiveness-to-covid19-orders/466134E376AD87F52441F26F3BE7D653#article'
+citation: 'Goldstein, Daniel AN, and Johannes Wiedemann. (2021). "Who Do You Trust? The Consequences of Partisanship and Trust for Responsiveness to COVID-19 Orders" <i>Perspectives on Politics</i>. 1(1).'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+We study partisanship and trust as determinants for differential compliance with COVID-19 stay-at-home orders.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Download paper here](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3580547)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Recommended citation: Goldstein, Daniel AN, and Johannes Wiedemann. (2021). "Who Do You Trust? The Consequences of Partisanship and Trust for Responsiveness to COVID-19 Orders" <i>Perspectives on Politics</i>. 1(1).
