@@ -11,49 +11,63 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* BA in Politics and Public Administration; Economics, University of Konstanz, 2014
+* MSc in Political Science and Political Economy, London School of Economics and Political Science, 2015
+* MA in Economics, Yale University, 2018 
+* MPhil in Political Science and Economics, Yale University, 2019
+* Ph.D in Political Science and Economics, Yale University, 2022 (expected)
+
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* 2017: Research Assistant
+  * Yale University
+  * Supervisor: Professor Susan Rose-Ackerman
 
-Publications
+* 2017: Research Assistant
+  * Yale University
+  * Supervisor: Professor Frances Rosenbluth
+
+* 2015-2016: Carlo-Schmid-Fellow/ Short Term Temporary
+  * World Bank
+
+* Spring 2014: Teaching Assistant in Comparative Politics
+  * University of Konstanz
+  * Main Instructor: Professor Christian Breunig
+
+* 2013-2014: Research Assistant
+  * University of Konstanz
+  * Supervisor: Dr. Philip Leifeld
+
+* 2013: Internship
+  * German Embassy New Delhi
+
+* 2013: Internship
+  * German-Arab Chamber of Industry and Commerce
+
+* 2012: Internship
+  * German Bundestag
+
+* 2010-2011: Civil Service
+  * Goethe Institute Schwaebisch Hall
+
+Publication
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+Presentations
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+* 2021: MPSA, Leitner Political Economy Seminar (Yale), Trade Lunch (Yale)
+* 2020: APSA, American Politics Student Workshop (Yale), Leitner Political Economy Student Workshop (Yale)
+* 2019: MPSA, Leitner Political Economy Student Workshop (Yale)
+ 
   
 Teaching
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Introduction to Statistics (Undergraduate) 2020
+* Mathematics for Political Science (Graduate) 2018, 2019
+* Game Theory and Political Science (Undergraduate) 2019
+ 
