@@ -52,7 +52,7 @@ Work experience
 * 2010-2011: Civil Service
   * Goethe Institute Schwaebisch Hall
 
-Publication
+Research
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
