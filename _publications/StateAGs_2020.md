@@ -1,7 +1,7 @@
 ---
 title: "Campaign Contributions, Political Connections, and Investment - Firm-Level Evidence from US State Attorney Elections"
 collection: publications
-permalink: /publication/StateAGs_2020
+permalink: /research/StateAGs_2020
 excerpt: 'I study the firm-level effects of connections to US state attorney generals on investment and law enforcement stringency, as well as accountability as a mediating factor.'
 date: 2020-09-06
 venue: 'Working Paper'
