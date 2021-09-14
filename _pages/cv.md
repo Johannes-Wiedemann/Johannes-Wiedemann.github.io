@@ -10,11 +10,12 @@ author_profile: true
 
 Education
 ======
-* BA in Politics and Public Administration; Economics, University of Konstanz, 2014
-* MSc in Political Science and Political Economy, London School of Economics and Political Science, 2015
-* MA in Economics, Yale University, 2018 
-* MPhil in Political Science and Economics, Yale University, 2019
 * PhD in Political Science and Economics, Yale University, 2022 (expected)
+* MPhil in Political Science and Economics, Yale University, 2019
+* MA in Economics, Yale University, 2018 
+* MSc in Political Science and Political Economy, London School of Economics and Political Science, 2015
+* BA in Politics and Public Administration; Economics, University of Konstanz, 2014
+
 
 
 Work experience
@@ -59,7 +60,7 @@ Publication
   
 Presentations
 ======
-* 2021: MPSA, Leitner Political Economy Seminar (Yale), Trade Lunch (Yale)
+* 2021: MPSA, Leitner Political Economy Seminar (Yale), Trade Lunch (Yale), APSA (scheduled)
 * 2020: APSA, American Politics Student Workshop (Yale), Leitner Political Economy Student Workshop (Yale)
 * 2019: MPSA, Leitner Political Economy Student Workshop (Yale)
  
