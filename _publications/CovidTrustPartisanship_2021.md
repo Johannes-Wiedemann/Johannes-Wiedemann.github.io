@@ -12,6 +12,6 @@ Non-uniform compliance with public policy by citizens can undermine the effectiv
 
 The paper was covered in USApp - American Politics and Policy Blog by the LSE, see http://eprints.lse.ac.uk/104948/1/Wiedemann_those_who_trust_government_and_others_are_more_published.pdf .
 
-[Download paper here](http://academicpages.github.io/files/WiedemannGoldstein_CovidTrustPartisanship.pdf)
+[Download paper here](https://johannes-wiedemann.github.io//files/WiedemannGoldstein_CovidTrustPartisanship.pdf)
 
 Recommended citation: Goldstein, Daniel AN, and Johannes Wiedemann. (2021). "Who Do You Trust? The Consequences of Partisanship and Trust for Responsiveness to COVID-19 Orders" <i>Perspectives on Politics</i>. 1(1).
