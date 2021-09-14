@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Johannes Wiedemann"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -86,7 +86,7 @@ author:
   googlescholar    : "https://scholar.google.com/citations?user=CyIWBxoAAAAJ&hl=en"
   email            : "johannes.wiedemann@yale.edu"
   linkedin         : "www.linkedin.com/in/johannes-wiedemann-b097a594"
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : " https://orcid.org/0000-0002-4242-2872"
   twitter          : "@joh_wiedemann"
 
 
