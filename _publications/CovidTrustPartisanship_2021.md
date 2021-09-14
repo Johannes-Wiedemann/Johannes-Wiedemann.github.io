@@ -1,7 +1,7 @@
 ---
 title: "Who Do You Trust? The Consequences of Partisanship and Trust for Responsiveness to COVID-19 Orders"
 collection: publications
-permalink: /publication/CovidTrustPartisanship_2021
+permalink: /research/CovidTrustPartisanship_2021
 excerpt: 'We study partisanship and trust as determinants for differential compliance with COVID-19 stay-at-home orders.'
 date: 2021-04-16
 venue: 'Perspectives on Politics'
