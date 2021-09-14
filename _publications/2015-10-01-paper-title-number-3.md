@@ -2,7 +2,7 @@
 title: "Firm Lobbying in the European Union"
 collection: publications
 permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
+excerpt: 'I study the determinants and effects of firm lobbying in the European Union, utilizing novel data sources and providing multiple approach towards causal identification.'
 date: 2021-09-12
 venue: 'Working Paper'
 paperurl: 'http://academicpages.github.io/files/paper3.pdf'
