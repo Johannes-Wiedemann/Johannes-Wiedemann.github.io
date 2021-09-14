@@ -1,7 +1,7 @@
 ---
 title: "Experimental Evidence on Social Trust and Responsiveness to COVID-19 Mitigation Policies"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/CovidExperimentSocial_2021
 excerpt: 'We conduct a survey experiment to assess the causal effects of social trust on respondents` responsiveness to COVID-19 Mitigation Policies.'
 date: 2021-05-05
 venue: 'Under Review'
