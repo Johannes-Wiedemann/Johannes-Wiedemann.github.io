@@ -16,8 +16,24 @@ Education
 * MSc in Political Science and Political Economy, London School of Economics and Political Science, 2015
 * BA in Politics and Public Administration; Economics, University of Konstanz, 2014
 
-
-
+Research
+======
+  <ul>{% for post in site.publications %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+  
+Presentations
+======
+* 2021: MPSA, Leitner Political Economy Seminar (Yale), Trade Lunch (Yale), APSA (scheduled)
+* 2020: APSA, American Politics Student Workshop (Yale), Leitner Political Economy Student Workshop (Yale)
+* 2019: MPSA, Leitner Political Economy Student Workshop (Yale)
+ 
+Teaching
+======
+* Introduction to Statistics (Undergraduate) 2020
+* Mathematics for Political Science (Graduate) 2018, 2019
+* Game Theory and Political Science (Undergraduate) 2019
+ 
 Work experience
 ======
 
@@ -52,23 +68,11 @@ Work experience
 * 2010-2011: Civil Service
   * Goethe Institute Schwaebisch Hall
 
-Research
+Service
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Presentations
-======
-* 2021: MPSA, Leitner Political Economy Seminar (Yale), Trade Lunch (Yale), APSA (scheduled)
-* 2020: APSA, American Politics Student Workshop (Yale), Leitner Political Economy Student Workshop (Yale)
-* 2019: MPSA, Leitner Political Economy Student Workshop (Yale)
+
+* Paper Reviewer American Political Science Review
+* Discussant Poster Session (MPSA)
  
-  
-Teaching
-======
-* Introduction to Statistics (Undergraduate) 2020
-* Mathematics for Political Science (Graduate) 2018, 2019
-* Game Theory and Political Science (Undergraduate) 2019
- 
+
  
