@@ -12,4 +12,4 @@ Observational evidence suggests that social trust and the closely related concep
 
 [Download paper here](https://johannes-wiedemann.github.io//files/WiedemannGoldstein_CovidSocialTrust.pdf)
 
-Recommended citation: Wiedemann, Johannes, and Daniel AN Goldstein. "Experimental Evidence on Social Trust and Responsiveness to COVID-19 Mitigation Policies." Available at SSRN 3835934 (2021).
+
