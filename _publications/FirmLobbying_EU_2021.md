@@ -2,7 +2,7 @@
 title: "Firm Lobbying in the European Union"
 collection: publications
 permalink: /research/FirmLobbying_EU_2021
-excerpt: 'I study the determinants and effects of firm lobbying in the European Union, utilizing novel data sources and providing multiple approach towards causal identification.'
+excerpt: 'I study the determinants and effects of firm lobbying in the European Union, utilizing novel data sources and providing multiple approaches towards causal identification.'
 date: 2021-11-10
 venue: 'Working Paper'
 ---
