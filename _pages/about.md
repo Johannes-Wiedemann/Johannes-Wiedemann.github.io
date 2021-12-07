@@ -13,3 +13,5 @@ I am a PhD Candidate in Political Science and Economics at Yale University, wher
 Additionally, I study how trust and partisanship affect public policy effectiveness, with applications to COVID-19 mitigation policies. My work (joint with Daniel A. N. Goldstein) has been published in _Perspectives on Politics_.
 
 I hold a BA from the University of Konstanz, and an MSc from the London School of Economics, as well as an MA and an MPhil from Yale University. Before coming to Yale, I have worked at the World Bank, and interned at the German Embassy in New Delhi, the German-Arab Chamber of Industry and Commerce in Cairo, and the German Bundestag in Berlin. Outside of academia, I enjoy hiking and late night shows.
+
+I am currently on the job market. I will be available for interviews at the virtual EJME 2021 and ASSA 2022.
