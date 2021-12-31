@@ -1,5 +1,5 @@
 ---
-title: "Experimental Evidence on Social Trust and Responsiveness to COVID-19 Mitigation Policies"
+title: "Trust Me, Mask Up: Experimental Evidence on Social Trust and Responsiveness to COVID-19 Mitigation Policies"
 collection: publications
 permalink: /research/CovidExperimentSocial_2021
 excerpt: 'We conduct a survey experiment to assess the causal effects of social trust on respondents` responsiveness to COVID-19 Mitigation Policies.'
